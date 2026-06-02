@@ -37,6 +37,8 @@ CRM/
     
     ### Admin Login
     ![Admin Login](images/admin.png)
+
+    Use password 'admin123' to login for admin dashboard. 
     
   ## How to Run
   1.Download or clone the repository
