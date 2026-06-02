@@ -30,13 +30,13 @@ CRM/
 
   ## Screenshots
     ### Contact Form
-    ![Contact Form](images/cf.png)
+    ![Contact Form](cf.png)
     
     ### Admin Dashboard
-    ![Admin Dashboard](images/admin_dash.png)
+    ![Admin Dashboard](admin_dash.png)
     
     ### Admin Login
-    ![Admin Login](images/admin.png)
+    ![Admin Login](admin.png)
 
     Use password 'admin123' to login for admin dashboard. 
     
