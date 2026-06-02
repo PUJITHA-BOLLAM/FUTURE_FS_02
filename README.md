@@ -25,8 +25,19 @@ CRM/
 └── admin.html
 ├── admin.js
 └── login.html
-|__cf.html
+|__index.html
 ```
+
+  ## Screenshots
+    ### Contact Form
+    ![Contact Form](images/cf.png)
+    
+    ### Admin Dashboard
+    ![Admin Dashboard](images/admin_dash.png)
+    
+    ### Admin Login
+    ![Admin Login](images/admin.png)
+    
   ## How to Run
   1.Download or clone the repository
 
